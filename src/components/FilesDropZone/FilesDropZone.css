@@ -1,0 +1,9 @@
+.files-dropzone {
+    button {
+        background: none;
+        border: none;
+        color: inherit;
+        width: 100%;
+        cursor: pointer;
+    }
+}
